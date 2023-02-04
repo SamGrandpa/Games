@@ -17,8 +17,7 @@ Pressing enter key to switch perspective of view between first person and third 
 
 When the player is on first person perspective, click mouse to turn on the freeLook mode and click again to switch to stationary mode. 
 
-
-##References
+## References
 
 [Earth.jpg](https://www.seekpng.com/ipng/u2t4u2e6i1u2e6i1_earth-transparent-file-earth-png-europe/)
 ,[Mars.png](https://www.freepnglogos.com/images/mars-18087.html)
